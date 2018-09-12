@@ -10,95 +10,30 @@
 
 body{
     background-color:white;
-    font-family: lucida sans, sans-serif;
+    font-family: lucida sans, serif;
     background-image: url(1536102545867.JPEG);
-    background-position: center;
+    background-position:center;
 }
 h1{
-    font-size: 500%;
-    text-shadow: 4px 2px 6px #eee9;
-    //border-width:4px;
-    //border-style: solid;
-    //border-color: red;
-    padding-left: 20px;
-    padding-bottom: 10px;
-    border-radius:15px;  
-    //box-shadow: inset 8px 8px 8px grey;
+    font-family: vivaldi,sans-serif;
+    font-size: 600%;
+    text-shadow: 4px 2px 6px #eee;
+    padding-bottom: 10px;  
     text-align: center;
-    //background-image:url(IMG_0037.jpg);
   }
-
-h2{
-    font-weight:lighter;
-    font-style: italic;
-}
-.Pro {color: red;
-}
 
 #wrapper{
    background-color:black;
-    color: lightgray;
-    margin: auto;
-   // width: 75%;
-    //min-width: 600px;
-    opacity: .86;
+    color: whitesmoke;
+    opacity: .85;
 }
-
-
 
 
 main {
     padding: 5px;
     margin-left: 5px;
-    background-color: 
-    
 }
 
-body {
-position: relative;
+footer{
+    font-size: 80%;
 }
-
-.wrapper {
-width: 400px;
-margin: 0 auto;
-display: flex;
-justify-content: space-between;
-}
-
-.column {
-display: flex;
-align-items: center;
-}
-
-#status {
-position: absolute;
-top: 5rem;
-left: 50%;
-transform: translateX(-50%);
-min-width: 400px;
-margin: 0;
-text-align: center;
-}
-
-.dice {
-width: 32px;
-float: left;
-background-color: lightcoral;
-border: 1px solid black;
-padding: 10px;
-font-size: 24px;
-text-align: center;
-margin: 5px;
-border-radius: 5px;
-}
-
-.dice-roll {
-cursor: pointer;
-text-transform: capitalize;
-}
-
-
-
-
-
-
